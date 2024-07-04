@@ -17,6 +17,4 @@ The full requirements can be found [here](https://github.com/kevinziroldi/best-p
 ## Tools
 * VSCode
 * [GCC](https://gcc.gnu.org/)
-* [Valgrind](https://valgrind.org/) 
-=======
->>>>>>> 484e3036bc6b578f261ccb6ba8e1326d26408261
+* [Valgrind](https://valgrind.org/)
