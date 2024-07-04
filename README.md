@@ -7,6 +7,7 @@ Final project created for the course Algorithms and Data Structures at Politecni
 It was also part of the final examination projects for the Bachelor in Computer Engineering.
 
 This solution achieved the maximum grade of 30 cum laude/30.
+<<<<<<< HEAD
 
 ## Requirements
 Create a program in C to find the best path on a highway using electric vehicles with limited autonomy, which is the path with the smallest number of stops. 
@@ -17,3 +18,5 @@ The full requirements can be found [here](https://github.com/kevinziroldi/best-p
 * VSCode
 * [GCC](https://gcc.gnu.org/)
 * [Valgrind](https://valgrind.org/) 
+=======
+>>>>>>> 484e3036bc6b578f261ccb6ba8e1326d26408261
